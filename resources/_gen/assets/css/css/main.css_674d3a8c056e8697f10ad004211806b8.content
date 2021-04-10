@@ -31249,7 +31249,7 @@ video {
 }
 
 .prose p {
-  color: white;
+  color: black;
 }
 
 @media (min-width: 640px) {
