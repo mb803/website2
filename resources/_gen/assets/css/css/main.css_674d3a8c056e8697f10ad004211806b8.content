@@ -31187,15 +31187,15 @@ video {
 #
 */
 
-/*
 .button-primary {
-  background-color: rgb(239, 130, 44);
+  background-color: rgb(56, 178, 172);
 }
 
 .button-primary:hover {
-  background-color: rgb(236, 113, 18);
+  background-color: rgb(49, 151, 149);
 }
 
+/*
 .button-secondary {
   color: rgba(255, 255, 255, 0.95);
   background-color: rgb(100, 100, 100);
@@ -31212,11 +31212,9 @@ video {
 #
 */
 
-/*
 .border-t {
-  border-color: rgb(239, 130, 44);
+  border-color: rgb(56, 178, 172);
 }
-*/
 
 /*
 #
@@ -31228,15 +31226,17 @@ video {
 #header-inner-wrapper {
   background-color: rgba(26, 38, 191, 0.9);
 }
+*/
 
+/*
 #brand-headline {
   color: rgb(239, 130, 44);
 }
+*/
 
 #tagline-paragraph {
-  color: rgba(255, 255, 255, 0.95);
+  color: black;
 }
-*/
 
 /*
 #
@@ -31244,15 +31244,13 @@ video {
 #
 */
 
-/*
 .prose h1 {
-  color: rgb(239, 130, 44);
+  color: black;
 }
 
 .prose p {
   color: white;
 }
-*/
 
 @media (min-width: 640px) {
   .sm\:container {
