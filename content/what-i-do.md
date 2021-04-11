@@ -1,7 +1,7 @@
 +++
 draft = true
 header_brand = "this is what i do"
-header_tagline_paragraph = ""
+header_tagline_paragraph = "i do speech therapy"
 teaser_image = ""
 [header_button_cta]
 title = ""
